@@ -1,0 +1,3778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Saved on 2024-10-17 14:32:25 by tom_scarvie-->
+<display version="2.0.0">
+  <name>BTSView</name>
+  <macros>
+    <P>ALS:</P>
+    <R>STATION3-KNOB:</R>
+  </macros>
+  <width>2000</width>
+  <height>910</height>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_6</name>
+    <x>830</x>
+    <y>280</y>
+    <width>50</width>
+    <height>14</height>
+    <points>
+      <point x="50.0" y="0.0">
+      </point>
+      <point x="0.0" y="14.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_4</name>
+    <x>441</x>
+    <y>360</y>
+    <width>160</width>
+    <height>62</height>
+    <points>
+      <point x="160.0" y="0.0">
+      </point>
+      <point x="0.0" y="61.99999999999999">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_14</name>
+    <x>1710</x>
+    <y>520</y>
+    <width>240</width>
+    <height>1</height>
+    <points>
+      <point x="0.0" y="0.0">
+      </point>
+      <point x="240.0" y="0.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_13</name>
+    <x>1740</x>
+    <y>490</y>
+    <width>50</width>
+    <height>29</height>
+    <points>
+      <point x="0.0" y="0.0">
+      </point>
+      <point x="50.0" y="29.000000000000007">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_12</name>
+    <x>1550</x>
+    <y>383</y>
+    <width>190</width>
+    <height>109</height>
+    <points>
+      <point x="0.0" y="0.0">
+      </point>
+      <point x="190.0" y="109.00000000000001">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_10</name>
+    <x>1510</x>
+    <y>360</y>
+    <width>40</width>
+    <height>23</height>
+    <points>
+      <point x="0.0" y="0.0">
+      </point>
+      <point x="40.0" y="23.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_9</name>
+    <x>1211</x>
+    <y>280</y>
+    <width>300</width>
+    <height>80</height>
+    <points>
+      <point x="0.0" y="0.0">
+      </point>
+      <point x="300.0" y="80.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_8</name>
+    <x>980</x>
+    <y>280</y>
+    <width>230</width>
+    <height>1</height>
+    <points>
+      <point x="229.99999999999997" y="0.0">
+      </point>
+      <point x="0.0" y="0.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_7</name>
+    <x>880</x>
+    <y>280</y>
+    <height>1</height>
+    <points>
+      <point x="100.0" y="0.0">
+      </point>
+      <point x="0.0" y="0.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_5</name>
+    <x>600</x>
+    <y>294</y>
+    <width>230</width>
+    <height>66</height>
+    <points>
+      <point x="230.0" y="0.0">
+      </point>
+      <point x="0.0" y="66.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_3</name>
+    <x>340</x>
+    <y>423</y>
+    <height>39</height>
+    <points>
+      <point x="100.0" y="0.0">
+      </point>
+      <point x="0.0" y="39.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_2</name>
+    <x>190</x>
+    <y>462</y>
+    <width>150</width>
+    <height>58</height>
+    <points>
+      <point x="150.0" y="0.0">
+      </point>
+      <point x="0.0" y="58.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="polyline" version="2.0.0">
+    <name>Beam_1</name>
+    <x>30</x>
+    <y>520</y>
+    <width>280</width>
+    <height>1</height>
+    <points>
+      <point x="280.0" y="0.0">
+      </point>
+      <point x="0.0" y="0.0">
+      </point>
+    </points>
+    <line_color>
+      <color name="Grid" red="128" green="128" blue="128">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS BPM6</name>
+    <x>1668</x>
+    <y>436</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_190</name>
+      <text>BPM6</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS BPM5</name>
+    <x>1568</x>
+    <y>379</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_191</name>
+      <text>BPM5</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS BPM4</name>
+    <x>1298</x>
+    <y>284</y>
+    <width>25</width>
+    <height>26</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_192</name>
+      <text>BPM4</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC9</name>
+    <x>1701</x>
+    <y>432</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_203</name>
+      <text>VC9</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC9</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM9:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>LTB HC1_1</name>
+    <x>1701</x>
+    <y>483</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_204</name>
+      <text>HC9</text>
+      <y>15</y>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS HC9</name>
+      <width>20</width>
+      <height>10</height>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:HCM9:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC8</name>
+    <x>1640</x>
+    <y>397</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_205</name>
+      <text>VC8</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC8</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM8:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>LTB HC8</name>
+    <x>1640</x>
+    <y>448</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_206</name>
+      <text>HC8</text>
+      <y>15</y>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS HC8</name>
+      <width>20</width>
+      <height>10</height>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:HCM8:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>LTB B1_2</name>
+    <x>1490</x>
+    <y>334</y>
+    <width>40</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_208</name>
+      <text>B4</text>
+      <x>10</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS B4</name>
+      <y>15</y>
+      <width>40</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="MINOR" red="255" green="255" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Box color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____B4_____BM18</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q7</name>
+    <x>1600</x>
+    <y>381</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q7</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q7_____BM08</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>BTS Q7</name>
+      <text>Q7</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC7</name>
+    <x>1440</x>
+    <y>297</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_209</name>
+      <text>VC7</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC7</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM7:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS HC7</name>
+    <x>1440</x>
+    <y>351</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_210</name>
+      <text>HC7</text>
+      <y>15</y>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS HC7</name>
+      <width>20</width>
+      <height>10</height>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:HCM7:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q6.2</name>
+    <x>1390</x>
+    <y>294</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_211</name>
+      <text>Q6.2</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.2</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="0.0" y="0.0">
+        </point>
+        <point x="20.0" y="0.0">
+        </point>
+        <point x="0.0" y="40.0">
+        </point>
+        <point x="20.0" y="40.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q6,2___BM05</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Qx_1</name>
+    <x>1340</x>
+    <y>281</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.1</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q6,1___BM02</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>LN Q1.1_5</name>
+      <text>Q6.1</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>LTB B1_4</name>
+    <x>1190</x>
+    <y>254</y>
+    <width>40</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_214</name>
+      <text>B3</text>
+      <x>10</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS B3</name>
+      <y>15</y>
+      <width>40</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="MINOR" red="255" green="255" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Box color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____B3_____BM18</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS TV6</name>
+    <x>1728</x>
+    <y>470</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_219</name>
+      <text>TV6</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS TV5</name>
+    <x>1538</x>
+    <y>362</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_220</name>
+      <text>TV5</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>SR01 SEK</name>
+    <x>1760</x>
+    <y>484</y>
+    <width>60</width>
+    <height>45</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_235</name>
+      <text>SEK</text>
+      <x>20</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="polygon" version="2.0.0">
+      <name>SEK</name>
+      <y>15</y>
+      <width>60</width>
+      <height>30</height>
+      <points>
+        <point x="0.0" y="30.0">
+        </point>
+        <point x="0.0" y="0.0">
+        </point>
+        <point x="60.0" y="10.0">
+        </point>
+        <point x="60.0" y="30.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="ActiveText" red="255" green="255" blue="255">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="STOP" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>SR01S___SEK____BM13</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>SR01 SEN</name>
+    <x>1840</x>
+    <y>484</y>
+    <width>60</width>
+    <height>45</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_236</name>
+      <text>SEN</text>
+      <x>20</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="polygon" version="2.0.0">
+    <name>SEN</name>
+    <x>1840</x>
+    <y>505</y>
+    <width>60</width>
+    <height>45</height>
+    <points>
+      <point x="0.0" y="25.0">
+      </point>
+      <point x="0.0" y="0.0">
+      </point>
+      <point x="60.0" y="5.0">
+      </point>
+      <point x="60.0" y="25.0">
+      </point>
+    </points>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color name="ActiveText" red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <rules>
+      <rule name="Background color" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 1">
+          <value>
+            <color name="On" red="0" green="255" blue="0">
+            </color>
+          </value>
+        </exp>
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color name="STOP" red="255" green="0" blue="0">
+            </color>
+          </value>
+        </exp>
+        <exp bool_exp="pv0 != (1 || 0)">
+          <value>
+            <color name="INVALID" red="160" green="0" blue="160">
+            </color>
+          </value>
+        </exp>
+        <pv_name>SR01S___SEN____BM06</pv_name>
+      </rule>
+    </rules>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS BPM3</name>
+    <x>1148</x>
+    <y>257</y>
+    <width>25</width>
+    <height>26</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_239</name>
+      <text>BPM3</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q5.2</name>
+    <x>1110</x>
+    <y>244</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.1_1</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q5,2___BM08</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>LN Q1.1_6</name>
+      <text>Q5.2</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q5.1</name>
+    <x>1060</x>
+    <y>244</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_240</name>
+      <text>Q5.1</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q5.1</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="0.0" y="0.0">
+        </point>
+        <point x="20.0" y="0.0">
+        </point>
+        <point x="0.0" y="40.0">
+        </point>
+        <point x="20.0" y="40.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q5,1___BM05</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS HC5</name>
+    <x>1010</x>
+    <y>290</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_242</name>
+      <text>HC5</text>
+      <y>15</y>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS HC5</name>
+      <width>20</width>
+      <height>10</height>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:HCM5:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS TV5_1</name>
+    <x>969</x>
+    <y>260</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_245</name>
+      <text>TV4</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q4</name>
+    <x>930</x>
+    <y>244</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.1_2</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q4_____BM02</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>LN Q1.1_7</name>
+      <text>Q4</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>LTB B2</name>
+    <x>860</x>
+    <y>254</y>
+    <width>40</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_246</name>
+      <text>B2</text>
+      <x>10</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS B3_1</name>
+      <y>15</y>
+      <width>40</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="MINOR" red="255" green="255" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Box color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____B2_____BM18</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS TV3</name>
+    <x>818</x>
+    <y>274</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_247</name>
+      <text>TV3</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC4</name>
+    <x>780</x>
+    <y>261</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_248</name>
+      <text>VC4</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC4</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM4:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS HC4</name>
+    <x>780</x>
+    <y>315</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_249</name>
+      <text>HC4</text>
+      <y>15</y>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS HC4</name>
+      <width>20</width>
+      <height>10</height>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:HCM4:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q3.2</name>
+    <x>730</x>
+    <y>284</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.1_3</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q3,2___BM08</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>LN Q1.1_8</name>
+      <text>Q3.2</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q3.1</name>
+    <x>680</x>
+    <y>298</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_254</name>
+      <text>Q3.1</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.2_2</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="0.0" y="0.0">
+        </point>
+        <point x="20.0" y="0.0">
+        </point>
+        <point x="0.0" y="40.0">
+        </point>
+        <point x="20.0" y="40.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:Q3_1:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS BPM2</name>
+    <x>638</x>
+    <y>323</y>
+    <width>25</width>
+    <height>26</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_255</name>
+      <text>BPM2</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>LTB B2_1</name>
+    <x>580</x>
+    <y>334</y>
+    <width>40</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_256</name>
+      <text>B1</text>
+      <x>10</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS B3_2</name>
+      <y>15</y>
+      <width>40</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="MINOR" red="255" green="255" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Box color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____B1_____BM18</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC3</name>
+    <x>541</x>
+    <y>336</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_257</name>
+      <text>VC3</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC3</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM3:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS HC3</name>
+    <x>541</x>
+    <y>390</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_258</name>
+      <text>HC3</text>
+      <y>15</y>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS HC3</name>
+      <width>20</width>
+      <height>10</height>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:HCM3:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q2.2</name>
+    <x>501</x>
+    <y>360</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.1_4</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:Q2_2:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>LN Q1.1_9</name>
+      <text>Q2.2</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q2.1</name>
+    <x>461</x>
+    <y>377</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_259</name>
+      <text>Q2.1</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.2_3</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="0.0" y="0.0">
+        </point>
+        <point x="20.0" y="0.0">
+        </point>
+        <point x="0.0" y="40.0">
+        </point>
+        <point x="20.0" y="40.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q2,1___BM05</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS TV2</name>
+    <x>428</x>
+    <y>403</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_260</name>
+      <text>TV2</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC2</name>
+    <x>400</x>
+    <y>391</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_261</name>
+      <text>VC2</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC3_2</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM2:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS HC3</name>
+    <x>400</x>
+    <y>445</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="group" version="3.0.0">
+      <name>BTS HC3_1</name>
+      <width>20</width>
+      <height>25</height>
+      <style>3</style>
+      <transparent>true</transparent>
+      <widget type="label" version="2.0.0">
+        <name>Label_262</name>
+        <text>HC2</text>
+        <y>15</y>
+        <width>20</width>
+        <height>10</height>
+        <font>
+          <font family="Liberation Sans" style="REGULAR" size="8.0">
+          </font>
+        </font>
+        <horizontal_alignment>1</horizontal_alignment>
+        <vertical_alignment>1</vertical_alignment>
+      </widget>
+      <widget type="rectangle" version="2.0.0">
+        <name>BTS HC3_2</name>
+        <width>20</width>
+        <height>10</height>
+        <line_width>1</line_width>
+        <line_color>
+          <color name="Text" red="0" green="0" blue="0">
+          </color>
+        </line_color>
+        <background_color>
+          <color name="Text" red="0" green="0" blue="0">
+          </color>
+        </background_color>
+        <rules>
+          <rule name="Background color" prop_id="background_color" out_exp="false">
+            <exp bool_exp="pv0 == 1">
+              <value>
+                <color name="On" red="0" green="255" blue="0">
+                </color>
+              </value>
+            </exp>
+            <exp bool_exp="pv0 == 0">
+              <value>
+                <color name="MAJOR" red="255" green="0" blue="0">
+                </color>
+              </value>
+            </exp>
+            <exp bool_exp="pv0 != (1 || 0)">
+              <value>
+                <color name="INVALID" red="160" green="0" blue="160">
+                </color>
+              </value>
+            </exp>
+            <pv_name>BTS:HCM2:SupplyOn</pv_name>
+          </rule>
+        </rules>
+      </widget>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS Q1</name>
+    <x>361</x>
+    <y>416</y>
+    <width>20</width>
+    <height>55</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="polygon" version="2.0.0">
+      <name>BTS Q6.1_5</name>
+      <y>15</y>
+      <width>20</width>
+      <height>40</height>
+      <points>
+        <point x="10.0" y="0.0">
+        </point>
+        <point x="0.0" y="20.0">
+        </point>
+        <point x="10.0" y="40.0">
+        </point>
+        <point x="20.0" y="20.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Attention" red="255" green="160" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS_____Q1_____BM02</pv_name>
+        </rule>
+      </rules>
+    </widget>
+    <widget type="label" version="2.0.0">
+      <name>LN Q1.1_10</name>
+      <text>Q1</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS TV1</name>
+    <x>328</x>
+    <y>442</y>
+    <width>25</width>
+    <height>24</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_263</name>
+      <text>TV1</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC1</name>
+    <x>300</x>
+    <y>427</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_264</name>
+      <text>VC1</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC3_3</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM1:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS BPM1</name>
+    <x>268</x>
+    <y>463</y>
+    <width>25</width>
+    <height>26</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_266</name>
+      <text>BPM1</text>
+      <width>25</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>SR01 SEK_2</name>
+    <x>160</x>
+    <y>485</y>
+    <width>60</width>
+    <height>45</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_269</name>
+      <text>SEK</text>
+      <x>20</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="polygon" version="2.0.0">
+      <name>SEK_2</name>
+      <y>15</y>
+      <width>60</width>
+      <height>30</height>
+      <points>
+        <point x="0.0" y="30.0">
+        </point>
+        <point x="0.0" y="10.0">
+        </point>
+        <point x="60.0" y="0.0">
+        </point>
+        <point x="60.0" y="30.0">
+        </point>
+      </points>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="ActiveText" red="255" green="255" blue="255">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="STOP" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BR2_____SEK____BM13</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>SR01 SEN_2</name>
+    <x>80</x>
+    <y>485</y>
+    <width>60</width>
+    <height>45</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_270</name>
+      <text>SEN</text>
+      <x>20</x>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+  </widget>
+  <widget type="polygon" version="2.0.0">
+    <name>SEN_2</name>
+    <x>80</x>
+    <y>505</y>
+    <width>60</width>
+    <height>45</height>
+    <points>
+      <point x="0.0" y="25.0">
+      </point>
+      <point x="0.0" y="5.0">
+      </point>
+      <point x="60.0" y="0.0">
+      </point>
+      <point x="60.0" y="25.0">
+      </point>
+    </points>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color name="ActiveText" red="255" green="255" blue="255">
+      </color>
+    </background_color>
+    <rules>
+      <rule name="Background color" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 1">
+          <value>
+            <color name="On" red="0" green="255" blue="0">
+            </color>
+          </value>
+        </exp>
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color name="STOP" red="255" green="0" blue="0">
+            </color>
+          </value>
+        </exp>
+        <exp bool_exp="pv0 != (1 || 0)">
+          <value>
+            <color name="INVALID" red="160" green="0" blue="160">
+            </color>
+          </value>
+        </exp>
+        <pv_name>BR2_____SEN____BM06</pv_name>
+      </rule>
+    </rules>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS VC5</name>
+    <x>1010</x>
+    <y>235</y>
+    <width>20</width>
+    <height>35</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="label" version="2.0.0">
+      <name>Label_215</name>
+      <text>VC5</text>
+      <width>20</width>
+      <height>10</height>
+      <font>
+        <font family="Liberation Sans" style="REGULAR" size="8.0">
+        </font>
+      </font>
+      <horizontal_alignment>1</horizontal_alignment>
+      <vertical_alignment>1</vertical_alignment>
+    </widget>
+    <widget type="rectangle" version="2.0.0">
+      <name>BTS VC6_2</name>
+      <x>5</x>
+      <y>15</y>
+      <width>10</width>
+      <line_width>1</line_width>
+      <line_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </line_color>
+      <background_color>
+        <color name="Text" red="0" green="0" blue="0">
+        </color>
+      </background_color>
+      <rules>
+        <rule name="Background color" prop_id="background_color" out_exp="false">
+          <exp bool_exp="pv0 == 1">
+            <value>
+              <color name="On" red="0" green="255" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 == 0">
+            <value>
+              <color name="MAJOR" red="255" green="0" blue="0">
+              </color>
+            </value>
+          </exp>
+          <exp bool_exp="pv0 != (1 || 0)">
+            <value>
+              <color name="INVALID" red="160" green="0" blue="160">
+              </color>
+            </value>
+          </exp>
+          <pv_name>BTS:VCM5:SupplyOn</pv_name>
+        </rule>
+      </rules>
+    </widget>
+  </widget>
+  <widget type="group" version="3.0.0">
+    <name>BTS HC1</name>
+    <x>240</x>
+    <y>506</y>
+    <width>20</width>
+    <height>25</height>
+    <style>3</style>
+    <transparent>true</transparent>
+    <widget type="group" version="3.0.0">
+      <name>BTS HC3_6</name>
+      <width>20</width>
+      <height>25</height>
+      <style>3</style>
+      <transparent>true</transparent>
+      <widget type="label" version="2.0.0">
+        <name>Label_267</name>
+        <text>HC1</text>
+        <y>15</y>
+        <width>20</width>
+        <height>10</height>
+        <font>
+          <font family="Liberation Sans" style="REGULAR" size="8.0">
+          </font>
+        </font>
+        <horizontal_alignment>1</horizontal_alignment>
+        <vertical_alignment>1</vertical_alignment>
+      </widget>
+      <widget type="rectangle" version="2.0.0">
+        <name>BTS HC3_7</name>
+        <width>20</width>
+        <height>10</height>
+        <line_width>1</line_width>
+        <line_color>
+          <color name="Text" red="0" green="0" blue="0">
+          </color>
+        </line_color>
+        <background_color>
+          <color name="Text" red="0" green="0" blue="0">
+          </color>
+        </background_color>
+        <rules>
+          <rule name="Background color" prop_id="background_color" out_exp="false">
+            <exp bool_exp="pv0 == 1">
+              <value>
+                <color name="On" red="0" green="255" blue="0">
+                </color>
+              </value>
+            </exp>
+            <exp bool_exp="pv0 == 0">
+              <value>
+                <color name="MAJOR" red="255" green="0" blue="0">
+                </color>
+              </value>
+            </exp>
+            <exp bool_exp="pv0 != (1 || 0)">
+              <value>
+                <color name="INVALID" red="160" green="0" blue="160">
+                </color>
+              </value>
+            </exp>
+            <pv_name>BTS:HCM1:SupplyOn</pv_name>
+          </rule>
+        </rules>
+      </widget>
+    </widget>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS TV6</name>
+    <macros>
+      <TV>TV6</TV>
+      <acquire>BTS6:cam1:Acquire</acquire>
+      <camera>BTS6</camera>
+      <camera_name>BTS CAM6</camera_name>
+      <light>BTS_____TV6LIT_BC21</light>
+      <light_on>irm:044:B21Out</light_on>
+      <loctv>loc://btstv6</loctv>
+      <paddle>BTS_____TV6____BC20</paddle>
+      <paddle_in>irm:044:B20Out</paddle_in>
+    </macros>
+    <file>embedded/_tv.bob</file>
+    <x>700</x>
+    <y>490</y>
+    <width>30</width>
+    <height>110</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS TV5</name>
+    <macros>
+      <TV>TV5</TV>
+      <acquire>BTS5:cam1:Acquire</acquire>
+      <camera>BTS5</camera>
+      <camera_name>BTS CAM5</camera_name>
+      <light>BTS_____TV5LIT_BC19</light>
+      <light_on>irm:043:B19Out</light_on>
+      <loctv>loc://btstv5</loctv>
+      <paddle>BTS_____TV5____BC18</paddle>
+      <paddle_in>irm:043:B18Out</paddle_in>
+    </macros>
+    <file>embedded/_tv.bob</file>
+    <x>660</x>
+    <y>490</y>
+    <width>30</width>
+    <height>110</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS TV4</name>
+    <macros>
+      <TV>TV4</TV>
+      <acquire>BTS4:cam1:Acquire</acquire>
+      <camera>BTS4</camera>
+      <camera_name>BTS CAM4</camera_name>
+      <light>BTS_____TV4LIT_BC17</light>
+      <light_on>irm:043:B17Out</light_on>
+      <loctv>loc://btstv4</loctv>
+      <paddle>BTS_____TV4____BC16</paddle>
+      <paddle_in>irm:043:B16Out</paddle_in>
+    </macros>
+    <file>embedded/_tv.bob</file>
+    <x>620</x>
+    <y>490</y>
+    <width>30</width>
+    <height>110</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS TV3</name>
+    <macros>
+      <TV>TV3</TV>
+      <acquire>BTS3:cam1:Acquire</acquire>
+      <camera>BTS3</camera>
+      <camera_name>BTS CAM3</camera_name>
+      <light>BTS_____TV3LIT_BC19</light>
+      <light_on>irm:042:B19Out</light_on>
+      <loctv>loc://btstv3</loctv>
+      <paddle>BTS_____TV3____BC18</paddle>
+      <paddle_in>irm:042:B18Out</paddle_in>
+    </macros>
+    <file>embedded/_tv.bob</file>
+    <x>580</x>
+    <y>490</y>
+    <width>30</width>
+    <height>110</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS TV2</name>
+    <macros>
+      <TV>TV2</TV>
+      <acquire>BTS2:cam1:Acquire</acquire>
+      <camera>BTS2</camera>
+      <camera_name>BTS CAM2</camera_name>
+      <light>BTS_____TV2LIT_BC19</light>
+      <light_on>irm:041:B19Out</light_on>
+      <loctv>loc://btstv2</loctv>
+      <paddle>BTS_____TV2____BC18</paddle>
+      <paddle_in>irm:041:B18Out</paddle_in>
+    </macros>
+    <file>embedded/_tv.bob</file>
+    <x>540</x>
+    <y>490</y>
+    <width>30</width>
+    <height>110</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS TV1</name>
+    <macros>
+      <TV>TV1</TV>
+      <acquire>BTS1:cam1:Acquire</acquire>
+      <camera>BTS1</camera>
+      <camera_name>BTS CAM1</camera_name>
+      <light>BTS_____TV1LIT_BC17</light>
+      <light_on>irm:042:B17Out</light_on>
+      <loctv>loc://btstv1</loctv>
+      <paddle>BTS_____TV1____BC16</paddle>
+      <paddle_in>irm:042:B16Out</paddle_in>
+    </macros>
+    <file>embedded/_tv.bob</file>
+    <x>500</x>
+    <y>490</y>
+    <width>30</width>
+    <height>110</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS BPM1</name>
+    <macros>
+      <BPM>BTS BPM1</BPM>
+      <BPM_X>BTS:BPM1:SA:X</BPM_X>
+      <BPM_Y>BTS:BPM1:SA:Y</BPM_Y>
+    </macros>
+    <file>embedded/_bpm.bob</file>
+    <x>740</x>
+    <y>450</y>
+    <width>140</width>
+    <height>200</height>
+    <resize>2</resize>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS BPM2</name>
+    <macros>
+      <BPM>BTS BPM2</BPM>
+      <BPM_X>BTS:BPM2:SA:X</BPM_X>
+      <BPM_Y>BTS:BPM2:SA:Y</BPM_Y>
+    </macros>
+    <file>embedded/_bpm.bob</file>
+    <x>870</x>
+    <y>450</y>
+    <width>140</width>
+    <height>200</height>
+    <resize>2</resize>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS BPM3</name>
+    <macros>
+      <BPM>BTS BPM3</BPM>
+      <BPM_X>BTS:BPM3:SA:X</BPM_X>
+      <BPM_Y>BTS:BPM3:SA:Y</BPM_Y>
+    </macros>
+    <file>embedded/_bpm.bob</file>
+    <x>1000</x>
+    <y>450</y>
+    <width>140</width>
+    <height>200</height>
+    <resize>2</resize>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS BPM4</name>
+    <macros>
+      <BPM>BTS BPM4</BPM>
+      <BPM_X>BTS:BPM4:SA:X</BPM_X>
+      <BPM_Y>BTS:BPM4:SA:Y</BPM_Y>
+    </macros>
+    <file>embedded/_bpm.bob</file>
+    <x>1130</x>
+    <y>450</y>
+    <width>140</width>
+    <height>200</height>
+    <resize>2</resize>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS BPM5</name>
+    <macros>
+      <BPM>BTS BPM1</BPM>
+      <BPM_X>BTS:BPM5:SA:X</BPM_X>
+      <BPM_Y>BTS:BPM5:SA:Y</BPM_Y>
+    </macros>
+    <file>embedded/_bpm.bob</file>
+    <x>1250</x>
+    <y>450</y>
+    <width>140</width>
+    <height>200</height>
+    <resize>2</resize>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>BTS BPM6</name>
+    <macros>
+      <BPM>BTS BPM6</BPM>
+      <BPM_X>BTS:BPM6:SA:X</BPM_X>
+      <BPM_Y>BTS:BPM6:SA:Y</BPM_Y>
+    </macros>
+    <file>embedded/_bpm.bob</file>
+    <x>1380</x>
+    <y>450</y>
+    <width>140</width>
+    <height>200</height>
+    <resize>2</resize>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_0</name>
+    <macros>
+      <CNTL_PV>BTS:VCM1:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM1:SupplyOn</COLOR_PV>
+      <DESC>BTS VC1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM1:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>610</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_1</name>
+    <macros>
+      <CNTL_PV>BTS_____Q1_____AC00</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>BTS_____Q1_____BM02</COLOR_PV>
+      <DESC>BTS Q1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q1_____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>460</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_2</name>
+    <macros>
+      <CNTL_PV>BTS:HCM1:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM1:SupplyOn</COLOR_PV>
+      <DESC>BTS HC1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM1:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>610</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_3</name>
+    <macros>
+      <CNTL_PV>BR2_____SEN____AC00</CNTL_PV>
+      <COLOR_CODE>4</COLOR_CODE>
+      <COLOR_PV>irm:038:B06RBV</COLOR_PV>
+      <DESC>BR SEN</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>4800</MAX>
+      <MIN>-4800</MIN>
+      <MON_PV>BR2_____SEN____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>460</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_0</name>
+    <macros>
+      <CNTL_PV>BTS:VCM2:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM2:SupplyOn</COLOR_PV>
+      <DESC>BTS VC2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM2:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>700</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_1</name>
+    <macros>
+      <CNTL_PV>BTS:VCM3:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM3:SupplyOn</COLOR_PV>
+      <DESC>BTS VC3</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM3:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>790</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_2</name>
+    <macros>
+      <CNTL_PV>BTS:VCM4:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM4:SupplyOn</COLOR_PV>
+      <DESC>BTS VC4</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM4:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>880</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_3</name>
+    <macros>
+      <CNTL_PV>BTS:VCM5:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM5:SupplyOn</COLOR_PV>
+      <DESC>BTS VC5</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM5:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>970</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_4</name>
+    <macros>
+      <CNTL_PV>BTS:VCM7:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM7:SupplyOn</COLOR_PV>
+      <DESC>BTS VC7</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM7:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1060</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_5</name>
+    <macros>
+      <CNTL_PV>BTS:VCM8:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM8:SupplyOn</COLOR_PV>
+      <DESC>BTS VC8</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM8:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1150</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_6</name>
+    <macros>
+      <CNTL_PV>BTS:VCM9:Setpoint</CNTL_PV>
+      <COLOR_CODE>0</COLOR_CODE>
+      <COLOR_PV>BTS:VCM9:SupplyOn</COLOR_PV>
+      <DESC>BTS VC9</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:VCM9:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1240</x>
+    <y>40</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_7</name>
+    <macros>
+      <CNTL_PV>BTS:HCM2:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM2:SupplyOn</COLOR_PV>
+      <DESC>BTS HC2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM2:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>700</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_8</name>
+    <macros>
+      <CNTL_PV>BTS:HCM3:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM3:SupplyOn</COLOR_PV>
+      <DESC>BTS HC3</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM3:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>790</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_9</name>
+    <macros>
+      <CNTL_PV>BTS:HCM4:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM4:SupplyOn</COLOR_PV>
+      <DESC>BTS HC4</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM4:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>880</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_10</name>
+    <macros>
+      <CNTL_PV>BTS:HCM5:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM5:SupplyOn</COLOR_PV>
+      <DESC>BTS HC5</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM5:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>970</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_11</name>
+    <macros>
+      <CNTL_PV>BTS:HCM7:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM7:SupplyOn</COLOR_PV>
+      <DESC>BTS HC7</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM7:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1060</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_12</name>
+    <macros>
+      <CNTL_PV>BTS:HCM8:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM8:SupplyOn</COLOR_PV>
+      <DESC>BTS HC8</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM8:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1150</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_13</name>
+    <macros>
+      <CNTL_PV>BTS:HCM9:Setpoint</CNTL_PV>
+      <COLOR_CODE>2</COLOR_CODE>
+      <COLOR_PV>BTS:HCM9:SupplyOn</COLOR_PV>
+      <DESC>BTS HC9</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>6</MAX>
+      <MIN>-6</MIN>
+      <MON_PV>BTS:HCM9:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1240</x>
+    <y>120</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_14</name>
+    <macros>
+      <CNTL_PV>BTS_____Q2,1___AC01</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:045:B05RBV</COLOR_PV>
+      <DESC>BTS Q2.1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q2,1___AM01</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>550</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_15</name>
+    <macros>
+      <CNTL_PV>BTS:Q2_2:Setpoint</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>BTS:Q2_2:SupplyOn</COLOR_PV>
+      <DESC>BTS Q2.2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>50</MAX>
+      <MIN>-50</MIN>
+      <MON_PV>BTS:Q2_2:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>640</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_16</name>
+    <macros>
+      <CNTL_PV>BTS:Q3_1:Setpoint</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>BTS:Q3_1:SupplyOn</COLOR_PV>
+      <DESC>BTS Q3.1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>50</MAX>
+      <MIN>-50</MIN>
+      <MON_PV>BTS:Q3_1:CurrentRBV</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>730</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_17</name>
+    <macros>
+      <CNTL_PV>BTS_____Q3,2___AC02</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:045:B08RBV</COLOR_PV>
+      <DESC>BTS Q3.2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q3,2___AM02</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>820</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_18</name>
+    <macros>
+      <CNTL_PV>BTS_____Q4_____AC00</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:047:B02RBV</COLOR_PV>
+      <DESC>BTS Q4</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q4_____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>910</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_19</name>
+    <macros>
+      <CNTL_PV>BTS_____Q5,1___AC01</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>BTS_____Q5,1___BM05</COLOR_PV>
+      <DESC>BTS Q5.1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q5,1___AM01</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1000</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_20</name>
+    <macros>
+      <CNTL_PV>BTS_____Q5,2___AC02</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:047:B08RBV</COLOR_PV>
+      <DESC>BTS 5.2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q5,2___AM02</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1090</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_21</name>
+    <macros>
+      <CNTL_PV>BTS_____Q6,1___AM00</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:048:B02RBV</COLOR_PV>
+      <DESC>BTS Q6.1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q6,1___AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1180</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_22</name>
+    <macros>
+      <CNTL_PV>BTS_____Q6,2___AC01</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:048:B05RBV</COLOR_PV>
+      <DESC>BTS Q6.2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q6,2___AM01</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1270</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_23</name>
+    <macros>
+      <CNTL_PV>BTS_____Q7_____AC02</CNTL_PV>
+      <COLOR_CODE>3</COLOR_CODE>
+      <COLOR_PV>irm:048:B08RBV</COLOR_PV>
+      <DESC>BTS Q7</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>130</MAX>
+      <MIN>-130</MIN>
+      <MON_PV>BTS_____Q7_____AM02</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1360</x>
+    <y>660</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_24</name>
+    <macros>
+      <CNTL_PV>BR2_____SEK____AC01</CNTL_PV>
+      <COLOR_CODE>4</COLOR_CODE>
+      <COLOR_PV>irm:038:B13RBV</COLOR_PV>
+      <DESC>BR SEK</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>5915</MAX>
+      <MIN>-5915</MIN>
+      <MON_PV>BR2_____SEK____AM02</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>550</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_25</name>
+    <macros>
+      <CNTL_PV>BTS_____B1_____AC00</CNTL_PV>
+      <COLOR_CODE>5</COLOR_CODE>
+      <COLOR_PV>BTS_____B1_____BM18</COLOR_PV>
+      <DESC>BTS B1</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>1000</MAX>
+      <MIN>0</MIN>
+      <MON_PV>BTS_____B1_____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>730</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_26</name>
+    <macros>
+      <CNTL_PV>BTS_____B2_____AC00</CNTL_PV>
+      <COLOR_CODE>5</COLOR_CODE>
+      <COLOR_PV>BTS_____B2_____BM18</COLOR_PV>
+      <DESC>BTS B2</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>1000</MAX>
+      <MIN>0</MIN>
+      <MON_PV>BTS_____B2_____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>820</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_27</name>
+    <macros>
+      <CNTL_PV>BTS_____B3_____AC00</CNTL_PV>
+      <COLOR_CODE>5</COLOR_CODE>
+      <COLOR_PV>BTS_____B3_____BM18</COLOR_PV>
+      <DESC>BTS B3</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>1000</MAX>
+      <MIN>0</MIN>
+      <MON_PV>BTS_____B3_____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>910</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_28</name>
+    <macros>
+      <CNTL_PV>BTS_____B4_____AC00</CNTL_PV>
+      <COLOR_CODE>5</COLOR_CODE>
+      <COLOR_PV>BTS_____B4_____BM18</COLOR_PV>
+      <DESC>BTS B4</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>1000</MAX>
+      <MIN>0</MIN>
+      <MON_PV>BTS_____B4_____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1000</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_29</name>
+    <macros>
+      <CNTL_PV>SR01S___SEK____AC01</CNTL_PV>
+      <COLOR_CODE>4</COLOR_CODE>
+      <COLOR_PV>irm:057:B13RBV</COLOR_PV>
+      <DESC>SR SEK</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>5915</MAX>
+      <MIN>-5915</MIN>
+      <MON_PV>SR01S___SEK____AM02</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1270</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="embedded" version="2.0.0">
+    <name>$(DESC)_30</name>
+    <macros>
+      <CNTL_PV>SR01S___SEN____AC00</CNTL_PV>
+      <COLOR_CODE>4</COLOR_CODE>
+      <COLOR_PV>irm:057:B06RBV</COLOR_PV>
+      <DESC>SR SEN</DESC>
+      <GAIN>1e-4</GAIN>
+      <MAX>4794</MAX>
+      <MIN>-4794</MIN>
+      <MON_PV>SR01S___SEN____AM00</MON_PV>
+    </macros>
+    <file>embedded/_KnobDevice.bob</file>
+    <x>1360</x>
+    <y>740</y>
+    <width>72</width>
+    <height>62</height>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_7</name>
+    <actions>
+      <action type="command">
+        <command>/home/als/physbase/hlc/Scripts/runImageViewer.sh</command>
+        <description>Run Image Viewer</description>
+      </action>
+    </actions>
+    <pv_name>loc://testtriggercolorcode&lt;VLong&gt;(1)</pv_name>
+    <text>Open Image Viewer (Matlab)
+ Takes ~20 seconds to open</text>
+    <x>750</x>
+    <y>830</y>
+    <width>140</width>
+    <height>55</height>
+    <font>
+      <font name="Default Bold" family="Liberation Sans" style="BOLD" size="14.0">
+      </font>
+    </font>
+    <background_color>
+      <color name="Button_Reset_Background" red="255" green="176" blue="96">
+      </color>
+    </background_color>
+    <tooltip>$(actions)</tooltip>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_1</name>
+    <actions>
+      <action type="open_display">
+        <file>../common/KnobPanel.bob</file>
+        <target>window</target>
+        <description>Open Display</description>
+      </action>
+    </actions>
+    <text>Open KnobPanel</text>
+    <x>910</x>
+    <y>830</y>
+    <width>120</width>
+    <height>55</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED</name>
+    <pv_name>loc://paddlesout</pv_name>
+    <x>960</x>
+    <y>388</y>
+    <off_color>
+      <color name="MAJOR" red="255" green="0" blue="0">
+      </color>
+    </off_color>
+    <scripts>
+      <script file="EmbeddedPy">
+        <text><![CDATA[from org.csstudio.display.builder.runtime.script import PVUtil, ScriptUtil
+
+pvs1 = PVUtil.getDouble(pvs[1])
+
+if pvs1 > 0:
+	pvs[0].write(0)
+else:
+	pvs[0].write(1)]]></text>
+        <pv_name trigger="false">$(pv_name)</pv_name>
+        <pv_name>CCD:Paddles:Status</pv_name>
+      </script>
+    </scripts>
+  </widget>
+  <widget type="label" version="2.0.0">
+    <name>Label</name>
+    <text>All paddles out:</text>
+    <x>842</x>
+    <y>388</y>
+    <horizontal_alignment>1</horizontal_alignment>
+    <vertical_alignment>1</vertical_alignment>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS BPM1</name>
+    <x>274</x>
+    <y>478</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color red="255" green="255" blue="0">
+      </color>
+    </background_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS TV4_3</name>
+    <x>334</x>
+    <y>456</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS TV4_2</name>
+    <x>434</x>
+    <y>417</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS BPM3_2</name>
+    <x>644</x>
+    <y>339</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color red="255" green="255" blue="0">
+      </color>
+    </background_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS TV4_1</name>
+    <x>824</x>
+    <y>288</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS TV4</name>
+    <x>975</x>
+    <y>274</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS BPM3</name>
+    <x>1154</x>
+    <y>273</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color red="255" green="255" blue="0">
+      </color>
+    </background_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS BPM4</name>
+    <x>1304</x>
+    <y>300</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color red="255" green="255" blue="0">
+      </color>
+    </background_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS TV5</name>
+    <x>1544</x>
+    <y>376</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS BPM5</name>
+    <x>1574</x>
+    <y>393</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color red="255" green="255" blue="0">
+      </color>
+    </background_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS BPM6</name>
+    <x>1674</x>
+    <y>450</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+    <background_color>
+      <color red="255" green="255" blue="0">
+      </color>
+    </background_color>
+  </widget>
+  <widget type="ellipse" version="2.0.0">
+    <name>BTS TV6</name>
+    <x>1734</x>
+    <y>484</y>
+    <width>12</width>
+    <height>12</height>
+    <line_width>1</line_width>
+    <line_color>
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </line_color>
+  </widget>
+  <widget type="xyplot" version="3.0.0">
+    <name>X/Y Plot</name>
+    <x>750</x>
+    <y>400</y>
+    <width>0</width>
+    <height>0</height>
+  </widget>
+</display>
