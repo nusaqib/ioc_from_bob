@@ -30,23 +30,24 @@ def save_to_file(formatted_data, output_file):
 
 # Main script
 if __name__ == "__main__":
-    # Check if the CSV file and output file path are provided as command-line arguments
+    # Check if the CSV file and output path are provided as command-line arguments
     if len(sys.argv) < 3:
-        print("Usage: python script.py <csv_file> <output_file_path>")
+        print("Usage: python script.py <csv_file> <output_directory>")
         sys.exit(1)
 
-    # Get the CSV file path and output file path from the command-line arguments
+    # Get the CSV file path and output directory from the command-line arguments
     csv_file_path = sys.argv[1]
-    output_file_path = sys.argv[2]
+    output_directory = sys.argv[2]
 
     # Generate formatted data from the CSV file
     formatted_data = generate_formatted_data(csv_file_path)
 
     # Create the output directory if it doesn't exist
-    output_directory = os.path.dirname(output_file_path)
-    if output_directory:  # Only create if directory path is provided
-        os.makedirs(output_directory, exist_ok=True)
+    os.makedirs(output_directory, exist_ok=True)
 
-    # Save the formatted data to the specified output file path
+    # Define the output file path
+    output_file_path = os.path.join(output_directory, "substitution_file.txt")
+
+    # Save the formatted data to the output file
     save_to_file(formatted_data, output_file_path)
     print(f"Formatted data saved to {output_file_path}")
